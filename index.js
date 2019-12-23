@@ -1,4 +1,4 @@
-const Discord = require('discord.js');
+²const Discord = require('discord.js');
 const client = new Discord.Client();
 
 let msg = ""; 
@@ -18,4 +18,4 @@ client.on('ready', () => {
 })
 });
 
-client.login(token);
+client.login(token);NTk2MDUxNDk2MzY2MjQzODY5.XgCpXA.q8VCkwJK94sBcq5_YokX69gmrwQ
